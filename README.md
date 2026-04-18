@@ -1,1 +1,1 @@
-That's first commit (test)
+Some test
